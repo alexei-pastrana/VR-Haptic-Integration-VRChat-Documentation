@@ -1,6 +1,12 @@
 # VR-Haptic-Integration-VRChat-Documentation
 Documentación técnica completa del proyecto de integración háptica con VRChat. Cubre desde los fundamentos de la plataforma hasta la programación con UdonSharp, creación de mundos interactivos y conexión con dispositivos hápticos físicos (chalecos y guantes).
 
+## Productos finales del proyecto
+| Producto | Descripción | Link |
+|----------------------------------|-------------|------|
+| Manual Operativo | Guía interactiva paso a paso para replicar el sistema desde cero | [Abrir manual](https://vrchat-guide.netlify.app) |
+| Documentación completa | Base de conocimiento, bitácora de investigación y roadmap del proyecto | [Notion — HOME VRChat](https://prairie-guan-bf4.notion.site/HOME-VRCHAT-30f1faedee6e8033baa0fb578c024d0f) |
+
 ## ¿De qué trata este proyecto?
 El objetivo es desarrollar dominio completo del ecosistema VRChat e integrar dispositivos hápticos reales (chaleco bHaptics, guantes LucidGloves) para que el usuario pueda **sentir físicamente** las interacciones dentro de un entorno de realidad virtual social.
 
